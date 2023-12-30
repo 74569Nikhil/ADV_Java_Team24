@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04b8d9bd.css",
+    "main.js": "/static/js/main.b0d8cb25.js",
+    "static/js/787.f909c20c.chunk.js": "/static/js/787.f909c20c.chunk.js",
+    "static/media/4.jpg": "/static/media/4.04e0e40ebc1a7dbb2ea4.jpg",
+    "static/media/1.mp4": "/static/media/1.dfc6ba579eb49b3ccb0a.mp4",
+    "static/media/SignUpVieo.mp4": "/static/media/SignUpVieo.1ee9c71ceb9b75ef0c55.mp4",
+    "static/media/3.jpg": "/static/media/3.6e9a20f3fc3f8d294525.jpg",
+    "static/media/2.jpg": "/static/media/2.1f24c4b025c560e0760f.jpg",
+    "static/media/LoginVideo.mp4": "/static/media/LoginVideo.c92108a89e6903133e87.mp4",
+    "static/media/1.jpg": "/static/media/1.3ca07488f24da45e76f3.jpg",
+    "static/media/c.png": "/static/media/c.9a26ae7ed86bada7e81e.png",
+    "static/media/Asp.net.png": "/static/media/Asp.net.9cf53bda00158b70ee27.png",
+    "static/media/java.png": "/static/media/java.c7ba4f0dc6a5fcd7f0d1.png",
+    "static/media/Mysql.jpg": "/static/media/Mysql.04c0838209546a147638.jpg",
+    "static/media/nikhil.png": "/static/media/nikhil.0ddf078f92fca47bd968.png",
+    "static/media/c++.jpg": "/static/media/c++.5a38784a316a169c2523.jpg",
+    "static/media/random.png": "/static/media/random.5eae4359da0465abe7ea.png",
+    "static/media/html.jpg": "/static/media/html.8a176bfa679d19c9d771.jpg",
+    "index.html": "/index.html",
+    "main.04b8d9bd.css.map": "/static/css/main.04b8d9bd.css.map",
+    "main.b0d8cb25.js.map": "/static/js/main.b0d8cb25.js.map",
+    "787.f909c20c.chunk.js.map": "/static/js/787.f909c20c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b8d9bd.css",
+    "static/js/main.b0d8cb25.js"
+  ]
+}

@@ -1,0 +1,20 @@
+.discount-card:hover .price::before {
+    content: "₹ 3,500"; /* Display discounted price on hover */
+    color: red; /* Optionally, style the discounted price differently */
+  }
+  
+
+  .discount-card .discounted-price {
+    display: none; /* Initially hide discounted price */
+    color: red;
+  }
+  
+  .discount-card:hover .original-price {
+    display: none; /* Hide original price on hover */
+  }
+  
+  .discount-card:hover .discounted-price {
+    display: block; /* Show discounted price on hover */
+    
+  }
+  
